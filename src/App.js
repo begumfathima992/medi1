@@ -102,10 +102,7 @@ export default function App() {
 
       <tr>
           
-      <div style={{clear: "both"}}>
-    <h4 style={{float: "left",marginLeft:500}}>Users List</h4>
-    <h4 style={{marginRight:100}}>Actions</h4>
-</div>
+      
 
       
         </tr>
